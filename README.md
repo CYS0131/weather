@@ -1,5 +1,5 @@
 # weather
 Taiwan immediate weather
 # installed
-npm install request
+npm install request <BR>
 npm install cheerio
