@@ -1,0 +1,25 @@
+{
+  "name": "weather123",
+  "version": "0.0.1",
+  "description": "real-time Taiwan weather",
+  "main": "<scraper.js>",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "mocha": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CYS0131/weather"
+  },
+  "keywords": [
+    "Taiwan",
+    "weather"
+  ],
+  "author": "chia-yu su",
+  "license": "ISC"
+}
