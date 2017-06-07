@@ -5,10 +5,11 @@
   "main": "<scraper.js>",
   "dependencies": {
     "cheerio": "^0.22.0",
-    "request": "^2.79.0",
-    "mocha": "^3.1.0"
+    "request": "^2.79.0"
+   },
+  "devDependencies": {
+    "mocha": "^3.4.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "mocha"
   },
